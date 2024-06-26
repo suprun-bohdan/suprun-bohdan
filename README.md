@@ -7,14 +7,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a professional backend developer with over 5 years of experience in designing, developing, and optimizing complex web systems. Specializing in Python and Node.js, I have a strong foundation in data structures, algorithms, and system design, enabling me to build scalable and efficient software solutions.
+I'm a backend developer with over 5 years of experience in designing, developing, and optimizing complex web systems. Specializing in PHP, Java, Python and Dart, I have a strong foundation in data structures, algorithms, and system design, enabling me to build scalable and efficient software solutions.
 
 ## 🛠 Skills
 
-- **Languages**: Python, JavaScript (Node.js), SQL
-- **Frameworks/Libraries**: Django, Flask, Express.js, Sequelize, Mongoose
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **Tools & Technologies**: Docker, Kubernetes, AWS, Git, CI/CD pipelines
+- **Languages**: PHP, Python, Java, Dart, JavaScript (Angular.js), SQL 
+- **Frameworks/Libraries**: Laravel, Yii2, Spring, FastAPI, Flask, Play
+- **Databases**: MySQL, PostgreSQL, SQLite, Redis
+- **Tools & Technologies**: Docker, AWS, Git, GitLab (and Ci/CD)
 - **Principles & Practices**: RESTful APIs, Microservices Architecture, Test-Driven Development (TDD)
 
 ## 📈 Projects
