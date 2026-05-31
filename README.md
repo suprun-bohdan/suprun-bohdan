@@ -4,7 +4,7 @@
 
 ### Backend PHP/Laravel Developer
 
-**APIs • Laravel Packages • CMS Architecture • Infrastructure-minded Systems**
+**APIs • Laravel • CMS Architecture • Infrastructure-minded Systems**
 
 Based in Reykjavík, Iceland.
 
