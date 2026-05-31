@@ -1,16 +1,30 @@
-## Hi there 👋
+# Bohdan Suprun
 
-<!--
-**suprun-bohdan/suprun-bohdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend PHP/Laravel developer based in Iceland.
 
-Here are some ideas to get you started:
+I build open-source backend tools, Laravel packages, IP/network utilities, and AI-native CMS systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main focus
+
+- PHP / Laravel packages
+- API-first backend architecture
+- IP geolocation and network tools
+- Docker-based self-hosted systems
+- AI-native CMS and developer tools
+
+## Featured projects
+
+### Luma CMS
+Modern AI-native open-source CMS.
+
+### Laravel IP Info
+Laravel package for IP intelligence, geolocation, and network metadata.
+
+## Tech stack
+
+PHP, Laravel, MySQL, PostgreSQL, Redis, Docker, Linux, Nginx, GitHub Actions.
+
+## Links
+
+- GitHub: github.com/suprun-bohdan
+- Location: Reykjavík, Iceland
