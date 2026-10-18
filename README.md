@@ -1,53 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:14B8A6&height=170&section=header&text=Bohdan%20Suprun&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20PHP%2FLaravel%20Developer%20%E2%80%A2%20Reykjav%C3%ADk%2C%20Iceland&descSize=17&descAlignY=57" />
+<h1>Bohdan Suprun</h1>
 
-</div>
+<p><strong>Backend engineer — PHP / Laravel, APIs and Linux infrastructure</strong></p>
 
-<div align="center">
+<p>Reykjavík, Iceland · 6+ years · Remote (UTC+0)</p>
 
-### Backend Developer focused on Laravel, APIs, infrastructure and maintainable systems
-
-[![Website](https://img.shields.io/badge/Website-bohdan.is-111827?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://bohdan.is)
-[![GitHub](https://img.shields.io/badge/GitHub-suprun--bohdan-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/suprun-bohdan)
-![Location](https://img.shields.io/badge/Reykjav%C3%ADk-Iceland-2563EB?style=for-the-badge)
-
-</div>
-
----
-
-## Professional profile
-
-I build backend systems, APIs, Laravel packages and infrastructure-minded software with a strong focus on clarity, maintainability and real-world usage.
-
-```txt
-PHP / Laravel Backend
-API-first Systems
-CMS Architecture
-Docker / Linux Infrastructure
-Open-source Tools
-AI-assisted Developer Workflows
-```
-
----
-
-## Core stack
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+<p>
+<a href="https://bohdan.is">Website</a> ·
+<a href="mailto:bohdan-suprun@outlook.com">Email</a> ·
+<a href="https://www.linkedin.com/in/b-suprun/">LinkedIn</a>
+</p>
 
 </div>
 
 ---
+
+I build backend systems: Laravel APIs and packages, structured CMS architecture and
+Docker-based infrastructure. My focus is small cores, stable public contracts and
+documentation that ships with the code.
+
+## Selected work
+
+### [Luma CMS](https://github.com/suprun-bohdan/luma-cms)
+
+Open-source, AI-native CMS on Laravel. Structured content, visual page editing, a
+plugin system and a versioned REST API, with a React admin and a production
+installer. Pre-alpha, built in public with CI for both the API and the Studio.
+
+### [laravel-ip-info](https://github.com/suprun-bohdan/laravel-ip-info)
+
+Laravel package for client IP resolution and geo lookup: trusted proxies, provider
+chains, offline MMDB (IPv4 + IPv6), middleware and test fakes. Published on
+[Packagist](https://packagist.org/packages/suprun-bohdan/laravel-ip-info) with CI
+tests and benchmarks.
+
+### [iceland-electronic-id](https://github.com/suprun-bohdan/iceland-electronic-id)
+
+Laravel Socialite integration for Iceland's electronic ID — OAuth flow,
+configuration publishing and a reusable package structure.
 
 ## Experience
 
@@ -56,57 +47,19 @@ AI-assisted Developer Workflows
 | 2024 — 2025 | Backend Engineer  | WTG                     |
 | 2022 — 2024 | Backend Engineer  | SapientPro              |
 | 2021 — 2022 | Backend Engineer  | AlterEgo                |
-| 2019 — 2021 | Software Engineer | City Council Vashkivtsi |
+| 2019 — 2021 | Software Engineer | Vashkivtsi City Council |
 
----
+<!-- TODO: update the latest period if the role is still current, and add 1–2
+outcome bullets per role (what was built, scale, measurable result). -->
 
-## Engineering focus
+## Stack
 
-```txt
-Clean backend architecture
-Stable public APIs
-Readable and testable code
-Laravel package development
-Infrastructure automation
-Documentation-first thinking
-```
+- **Core:** PHP · Laravel · MySQL · PostgreSQL · Redis
+- **Infrastructure:** Docker · Linux · Nginx · GitHub Actions
+- **Working knowledge:** React · TypeScript · Vue
 
----
+## Contact
 
-## How I work
+Open to backend, Laravel, API and infrastructure work — remote or Reykjavík-based.
 
-| Principle               | Meaning                                                   |
-| ----------------------- | --------------------------------------------------------- |
-| Clarity over cleverness | Code should be easy to understand and safe to change      |
-| Stable APIs             | Public contracts should not break without reason          |
-| Documentation matters   | A project is not finished without usage docs              |
-| Small core              | Better to build modular systems than overloaded monoliths |
-| Ship real things        | Practical software is more valuable than endless concepts |
-
----
-
-## Current direction
-
-Building open-source backend tools, Laravel packages, CMS experiments and developer-focused systems.
-
-```txt
-Backend engineering • Laravel ecosystem • Infrastructure • AI-native tools
-```
-
----
-
-<div align="center">
-
-### Available for backend, Laravel, API and infrastructure-oriented work
-
-**Website:** [bohdan.is](https://bohdan.is)
-**GitHub:** [github.com/suprun-bohdan](https://github.com/suprun-bohdan)
-**Location:** Reykjavík, Iceland
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:0F172A&height=90&section=footer" />
-
-</div>
+[bohdan.is](https://bohdan.is) · [bohdan-suprun@outlook.com](mailto:bohdan-suprun@outlook.com) · [LinkedIn](https://www.linkedin.com/in/b-suprun/)
