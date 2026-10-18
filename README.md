@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:14B8A6&height=170&section=header&text=Bohdan%20Suprun&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20PHP%2FLaravel%20%E2%80%A2%20APIs%20%26%20Infrastructure&descSize=16&descAlignY=57" alt="Bohdan Suprun — backend engineer, PHP and Laravel" />
+<img src="assets/header.svg" width="100%" alt="Bohdan Suprun — backend engineer, PHP and Laravel" />
 
 <br />
 
 [![Website](https://img.shields.io/badge/bohdan.is-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bohdan.is)
 [![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:bohdan-suprun@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-suprun/)
-![Location](https://img.shields.io/badge/Reykjav%C3%ADk-Iceland-14B8A6?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-**6+ years building backend systems · remote, UTC+0**
 
 </div>
 
@@ -94,6 +91,6 @@ bullets per role (what was built, scale, measurable result). -->
 [![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:bohdan-suprun@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-suprun/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:0F172A&height=90&section=footer" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="90" viewBox="0 0 880 90" role="img" aria-label="Decorative wave">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#14B8A6"/>
+      <stop offset="50%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="880" height="90" fill="url(#footerBg)"/>
+  <path d="M0 26 C 180 58 360 4 540 34 C 660 54 770 40 880 24 L880 0 L0 0 Z" fill="#ffffff" opacity="0.10"/>
+  <path d="M0 44 C 200 20 420 66 640 40 C 760 26 820 36 880 46 L880 0 L0 0 Z" fill="#0F172A" opacity="0.25"/>
+</svg>
